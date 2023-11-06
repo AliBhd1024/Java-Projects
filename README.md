@@ -1,2 +1,2 @@
 # Java-Projects
-Simple Java Scripts! (Completing...)
+Bunch of Java Scripts! (Completing...)
